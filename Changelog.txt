@@ -1,0 +1,16 @@
+ Change Log:
+ 
+ v 2.02
+ * Force files to end in .svg
+ * Fix bug that gave wrong size to stipple files saved white stipples on black background
+ 
+ v 2.01:  
+ * Improved handling of Save process, to prevent accidental "not saving" by users.
+ 
+ v 2.0:  
+ * Add tone reversal option (white on black / black on white)
+ * Reduce vertical extent of GUI, to reduce likelihood of cropping on small screens
+ * Speling corections 
+ * Fixed a bug that caused unintended cropping of long, wide images
+ * Reorganized GUI controls
+ * Fail less disgracefully when a bad image type is selected.
